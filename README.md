@@ -20,7 +20,8 @@
 
 
 ### 📈 GitHub Stats
-![Swamy's GitHub stats](https://github-readme-stats.vercel.app/api?username=swamy-deshetty&show_icons=true&theme=radical)
+![Swamy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwamyDeshetty99&show_icons=true&theme=radical)
+
 
 ---
 
